@@ -36,3 +36,5 @@ A simple C++ project demonstrating a singly linked list with **move semantics**,
 2. Run:
    ```bash
    g++ -std=c++17 -o linkedlist linked_list_test.cpp linked_list.cpp
+
+   ./linkedlist
