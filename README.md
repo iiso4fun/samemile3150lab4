@@ -1,6 +1,5 @@
 # samemile3150lab4
 
-# samemile3150lab4
 
 ## Linked List Project
 
