@@ -3,7 +3,6 @@
 
 ## Linked List Project
 
-A simple C++ project demonstrating a singly linked list with **move semantics**, **copy constructor**, and **destructor**.
 
 ### Overview
 
